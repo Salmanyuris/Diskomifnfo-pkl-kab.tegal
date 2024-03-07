@@ -1,0 +1,65 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    
+}
+.btngg {
+  background-color: #2f5d91;
+}
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;  
+}
+.gradient-bg {
+  background: linear-gradient(to right, #2f5d91, #4e6e93);
+  color: white;
+}
+
+
+#particles-js {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+}
+
+nav {
+    background-color: #2b527f;
+}
+
+footer {
+    background-color: #2f5d91;
+}
+body {
+    font-family: "Lato", sans-serif;
+  }
+  
+  
+  .form-control-ku {
+    display: inline;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    filter: blur(15px);
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  }
+  
+  .utama {
+    margin-left: 160px; /* Same as the width of the sidenav */
+    font-size: 14px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .menusamping {padding-top: 15px;}
+    .menusamping a {font-size: 12px;}
+  }
+
+
+/* sidebar */
+
